@@ -29,3 +29,5 @@ This project is licensed under the MIT license.
 ## Questions
 
 If you have any questions about the project, please contact me at chern8998@gmail.com. You can find more of my work at https://github.com/CH3RNAND3Z.
+## Screenshot
+![Alt text](<Screenshot 2023-07-25 231604.png>)
